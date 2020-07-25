@@ -227,7 +227,8 @@ img {
 #header-inner {
   background: url("../img/showcase.jpg") no-repeat 20% 30%/cover;
   height: 5rem;
-  border-bottom: 3px solid #ffbc00; }
+  border-bottom: 3px solid #ffbc00;
+  padding-bottom: 1rem; }
 
 #home-a .specials {
   margin-top: 3rem;
@@ -423,7 +424,7 @@ img {
     #main-nav li {
       padding: 1rem; }
   #header-home {
-    height: 10rem;
+    height: 11rem;
     background-position: 20% 30%;
     border-bottom: 3px solid #ffbc00; }
     #header-home .header-content {
@@ -442,7 +443,7 @@ img {
     padding-bottom: 1rem; }
     #home-a .specials div:last-child {
       border: none;
-      padding-botom: 0; }
+      padding-bottom: 0; }
   #home-b .stats div {
     padding: 2rem 0 1rem 0; }
   #about-a .about-info {

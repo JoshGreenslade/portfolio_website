@@ -22,7 +22,7 @@
 
   #header {
     &-home {
-      height: 10rem;
+      height: 11rem;
       background-position: 20% 30%;
       border-bottom: 3px solid $main-color;
       .header-content {
@@ -55,7 +55,7 @@
 
         &:last-child {
           border: none;
-          padding-botom: 0;
+          padding-bottom: 0;
         }
       }
     }
